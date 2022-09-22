@@ -1,0 +1,6 @@
+[submodule "MarkO"]
+	path = MarkO
+	url = https://github.com/MarOber/smart-up-project-Mark-O.git
+[submodule "AkramA"]
+	path = AkramA
+	url = https://github.com/Zehngramm/SmartUpItWorks.git
